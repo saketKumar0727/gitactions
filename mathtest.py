@@ -3,7 +3,7 @@ from hello import hello
  
 def test_hello():
     assert hello() == "Hello, World!"
-    assert hello() == 'hellow world!'
+    assert hello() == "hellow world!"
  
  
 assert 2 + 2 == 4
